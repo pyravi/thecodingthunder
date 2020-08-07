@@ -1,7 +1,7 @@
 # thecodingthunder
 Blog website with multi-user feature, comments system and unique style.
 <br><br>
-Made with Django2, Python3, Html5, Bootstrap, Mobirise, CSS3, js, jquery.
+Made with Flask, Python3, Html5, Bootstrap, Mobirise, CSS3, js, jquery.
 
 
 # features 
